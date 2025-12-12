@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+pinecone
+cohere
+openai
+beautifulsoup4
+requests
